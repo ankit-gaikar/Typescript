@@ -1,2 +1,2 @@
-var message = "Marvellous Infosystems Web Development";
+var message = "Marvellous first poject ";
 console.log(message);
